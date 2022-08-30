@@ -1,0 +1,15 @@
+/Users/svetlana/dz3/dz3.23/bin/Debug/net6.0/dz3.23
+/Users/svetlana/dz3/dz3.23/bin/Debug/net6.0/dz3.23.deps.json
+/Users/svetlana/dz3/dz3.23/bin/Debug/net6.0/dz3.23.runtimeconfig.json
+/Users/svetlana/dz3/dz3.23/bin/Debug/net6.0/dz3.23.dll
+/Users/svetlana/dz3/dz3.23/bin/Debug/net6.0/dz3.23.pdb
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.csproj.AssemblyReference.cache
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.AssemblyInfoInputs.cache
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.AssemblyInfo.cs
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.csproj.CoreCompileInputs.cache
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.dll
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/refint/dz3.23.dll
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.pdb
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/dz3.23.genruntimeconfig.cache
+/Users/svetlana/dz3/dz3.23/obj/Debug/net6.0/ref/dz3.23.dll
